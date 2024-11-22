@@ -1,6 +1,4 @@
-# jogo-da-forca
-Trabalho da disciplina de Sistemas Digitais com objetivo de fazer um jogo da forca usando a Placa Xilinx Spartan com entrada o teclado.
+# jogo-da-memória
+Trabalho da disciplina de Sistemas Digitais onde programa-se um fpga para integrar tecladoe tela lcd para rodar uma jogo da memória simples.
 
-
-Grupo:
-Karen dos Anjos Arcoverde e Gabriel de Lima Moura
+Grupo: Fernanda Oliveira, Igor Mota, Nicolas Viana
